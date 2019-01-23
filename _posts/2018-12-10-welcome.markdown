@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "欢迎来到我的博客~"
+date:   2018-12-10 21:21:06 +0800
+categories: jekyll update
+---
+
+我是人工智障。。我也不知道写点什么。。等我先去问问。。
